@@ -3,6 +3,8 @@ By: Rohit Aware
 
 Web App that can add and delete notes
 
+# Site Preview
+https://react-noteapp-rohit.netlify.app/
 
 ## Technology Used:
 1. React.js
@@ -19,3 +21,4 @@ None
 
 ## License
 Rohit Aware 07/02/2025
+
